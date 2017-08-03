@@ -2,5 +2,5 @@
 SideFx Houdini Tools!
 
 Shelf Tools:
-- Dump selection to file.
-- Read from dump.
+- writeSelected - Write selected nodes to file.
+- readSelected  - Read nodes from file.
